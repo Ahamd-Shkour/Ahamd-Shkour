@@ -1,7 +1,10 @@
 ![](https://hit.yhype.me/github/profile?user_id=73717039)
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Helllllo
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello bro
 <p>Welcome to my page! </br> I'm ShkourBashtawi, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197595.png" width="16" /> <b>IRB, Jordan</b>.
 </p>
+
+![](https://komarev.com/ghpvc/?username=shkourbashtawi)
 
 <h3>Things I code with</h3>
 <p>
@@ -27,12 +30,16 @@
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-### Discord Status: 
+<h3>Discord status</h3>
  <img src="https://lanyard-profile-readme.vercel.app/api/685868171755913293?borderRadius=20px&hideBadges=false" height="280">
 
 
-### ✉️ Contact Me
 
-- [Discord](https://discord.com/users/685868171755913293) / Dr. ShkourBashtawi#9030
+<h3>Contact Me</h3>
+    <a href="https://discord.com/users/685868171755913293" target="_blank">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://linktr.ee/ShkourBashtawi" target="_blank">
+        <img alt="linktr.ee" src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" /></a>
+
 
 <img src="https://imgur.com/rilHVxA.png"/> 
