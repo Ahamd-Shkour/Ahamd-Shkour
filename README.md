@@ -4,7 +4,7 @@
 ### Discord Status: 
  <img src="https://lanyard-profile-readme.vercel.app/api/685868171755913293?borderRadius=20px&hideBadges=false" height="280">
 
-My name is Ahmad Shkour, a backend developer working on several projects that you can find in here! 
+My name is Ahmad Shkour, a full stack developer working on several projects that you can find in here! 
 
 
 ### ✉️ Contact Me
