@@ -31,7 +31,7 @@
 </p>
 
 <h3>Discord status</h3>
- <img src="https://lanyard-profile-readme.vercel.app/api/685868171755913293?borderRadius=20px&hideBadges=false" height="280">
+ <img src="https://lanyard.cnrad.dev/api/685868171755913293?animated=true&animatedDecoration=false&showDisplayName=true&theme=dark&hideClan=false&hideProfile=false&hideSpotify=true&hideBadges=false&hideDecoration=false" height="280">
 
 
 
